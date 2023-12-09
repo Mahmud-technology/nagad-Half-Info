@@ -21,7 +21,7 @@ pip install requests
 
 ```
 ````bash
-git clone https://github.com/uchiha44/nagad-Half-Info.git
+git clone https://github.com/uchiha44/nagad-Half-Info.git](https://github.com/Mahmud-technology/nagad-Half-Info.git
 ````
 # 𝙃𝙤𝙬_𝙏𝙤_𝙍𝙪𝙣
 ````bash
